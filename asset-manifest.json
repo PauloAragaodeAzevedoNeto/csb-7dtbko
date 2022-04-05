@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/main.93408593.chunk.js",
+    "main.js.map": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/main.93408593.chunk.js.map",
+    "runtime-main.js": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/runtime-main.614efb2a.js",
+    "runtime-main.js.map": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/runtime-main.614efb2a.js.map",
+    "static/js/2.8d6cda02.chunk.js": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/2.8d6cda02.chunk.js",
+    "static/js/2.8d6cda02.chunk.js.map": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/2.8d6cda02.chunk.js.map",
+    "index.html": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8d6cda02.chunk.js.LICENSE.txt": "https://pauloaragaodeazevedoneto.github.io/csb-7dtbko/static/js/2.8d6cda02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.614efb2a.js",
+    "static/js/2.8d6cda02.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.93408593.chunk.js"
+  ]
+}
